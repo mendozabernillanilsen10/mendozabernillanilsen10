@@ -85,7 +85,7 @@ Exciting news! Our application for classifying diseases in coffee leaves, develo
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=mendozabernillanilsen10&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://.itsvg.in/api?id=mendozabernillanilsen10&icon=3&color=6)]()
   
 </div>
 
