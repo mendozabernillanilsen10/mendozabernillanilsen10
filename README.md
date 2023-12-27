@@ -25,12 +25,9 @@
 </div>
 
 
-<!--Intro start-->
-**¡Desarrollo en Curso! 🌱📲**
+**Development Update! 🌱📲**
 
-¡Noticias emocionantes! La aplicación para clasificar enfermedades en hojas de café, creada con Python y Django, ahora ofrece un diagnóstico preciso gracias al machine learning. Estamos en la fase de optimización y pruebas para garantizar un rendimiento óptimo. Pronto, una solución más eficaz para el diagnóstico de enfermedades en hojas de café. ☕🌿 #InnovaciónAgro #DesarrolloDeAplicaciones
-<!--Intro end-->
-
+Exciting news! Our application for classifying diseases in coffee leaves, developed with Python and Django, now provides accurate diagnosis through machine learning. We're in the optimization and testing phase for optimal performance. Soon, a more efficient solution for diagnosing coffee leaf diseases will be available. ☕🌿 #AgTechInnovation #AppDevelopment
 
 
 <!--- stats & Trophy (start) -->
