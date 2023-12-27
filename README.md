@@ -26,19 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+**¡Desarrollo en Curso! 🌱📲**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+¡Noticias emocionantes! La aplicación para clasificar enfermedades en hojas de café, creada con Python y Django, ahora ofrece un diagnóstico preciso gracias al machine learning. Estamos en la fase de optimización y pruebas para garantizar un rendimiento óptimo. Pronto, una solución más eficaz para el diagnóstico de enfermedades en hojas de café. ☕🌿 #InnovaciónAgro #DesarrolloDeAplicaciones
 <!--Intro end-->
 
 
