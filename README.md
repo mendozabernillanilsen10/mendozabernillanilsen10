@@ -104,24 +104,18 @@ JavaScript    ████░░░░░░░░░░░░░░░░    9.
 
 🎯 About Me
 ```python
->>> # Empecemos a crear tu perfil...
->>> # Primero, definamos la clase
->>> class NilsenRay:
-...     def __init__(self):
-...         self.name = "Nilsen Ray Mendoza Bernilla"
-...         self.role = "Full Stack Mobile Developer"
-...         self.location = "Perú"
-...         self.knowledge = ["Mobile Development", "AI/ML", "Web Development"]
-...         self.interests = ["Coffee Disease Classification", "Innovation", "Technology"]
-...
-...     def say_hi(self):
-...         print("Thanks for visiting my profile! Let's create something amazing together!")
-...
->>> # Ahora creemos una instancia y saludemos
->>> me = NilsenRay()
->>> me.say_hi()
-Thanks for visiting my profile! Let's create something amazing together!
->>> # ¡Perfecto! Tu perfil está listo
+class NilsenRay:
+    def **init**(self):
+        self.name = "Nilsen Ray Mendoza Bernilla"
+        self.role = "Full Stack Mobile Developer"
+        self.location = "Perú"
+        self.knowledge = ["Mobile Development", "AI/ML", "Web Development"]
+        self.interests = ["Coffee Disease Classification", "Innovation", "Technology"]
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's create something amazing together!")
+me = NilsenRay()
+me.say_hi()
+
 ```
 🌐 Connect With Me
 <div align="center">
