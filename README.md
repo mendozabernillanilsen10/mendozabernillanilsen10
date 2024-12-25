@@ -19,6 +19,10 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake animation" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/mendozabernillanilsen10/mendozabernillanilsen10/blob/output/github-snake.svg" alt="snake animation" />
+</div>
+
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mendozabernillanilsen10&theme=react-dark&hide_border=true" width="100%"/>
 
