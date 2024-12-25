@@ -113,10 +113,12 @@ me.say_hi()
 ```
 
 <h2 align="center">📊 Weekly Development Breakdown</h2>
-textCopyKotlin      12 hrs 45 mins  ███████████░░░░░░  45.25%
+Kotlin      12 hrs 45 mins  ███████████░░░░░░  45.25%
 Python      8 hrs 32 mins   ██████░░░░░░░░░░░  30.28%
 Flutter     4 hrs 15 mins   ███░░░░░░░░░░░░░░  15.12%
 JavaScript  2 hrs 37 mins   ██░░░░░░░░░░░░░░░   9.35%
+
+
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/nilsen-mendoza-bernilla-233649282">
