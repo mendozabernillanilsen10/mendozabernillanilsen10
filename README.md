@@ -1,103 +1,109 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+code+universe;Full-stack+Mobile+Developer;AI+%26+Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </div>
 
-###  <div align="center">I'm Nilsen Ray, a full-stack mobile developer 👨‍💻 specializing in innovative solutions 🚀</div>  
-  
-<div align="center">🔭 Currently crafting an AI-powered Coffee Leaf Disease Classifier 🌿</div>  
-  
-<br/>
+<!-- Profile Views Counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mendozabernillanilsen10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-</div>
-</td><td valign="top" width="33%">
-
-### Mobile Development  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutter-original.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-</div>
-</td></tr></table>  
-
-<br/>  
-
-## Connect with me  
+<!-- Trophies -->
 <div align="center">
-<a href="https://github.com/mendozabernillanilsen10" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nilsen-mendoza-bernilla-233649282" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/smith_de_cielos" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
+  <a href="https://github.com/mendozabernillanilsen10/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mendozabernillanilsen10&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophy">
+  </a>
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mendozabernillanilsen10&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-
+<!-- Snake Animation -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mendozabernillanilsen10&&style=flat-square" align="center" />
-</div>  
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake animation" />
+</div>
 
-<br/>  
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mendozabernillanilsen10&theme=react-dark&hide_border=true" width="100%"/>
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<!-- Tech Stack Section -->
+<table>
+<tr>
+<td align="center" width="33%">
+  
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux" />
+  </a>
+</p>
+  
+</td>
+<td align="center" width="33%">
+  
+### Mobile Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,swift,androidstudio" />
+  </a>
+</p>
+  
+</td>
+<td align="center" width="33%">
+  
+### Backend & DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,aws,docker,firebase" />
+  </a>
+</p>
+  
+</td>
+</tr>
+</table>
+
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mendozabernillanilsen10&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendozabernillanilsen10&theme=radical&hide_border=true" width="49%" />
+</div>
 
 <div align="center">
-            <a href="https://paypal.me/nilsenray" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/nilsenray" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-## Featured Projects
-
-<div align="center">
-  <img src="https://via.placeholder.com/468x300?text=Coffee+Leaf+Disease+Classifier" alt="Project Preview" />
-  <br/>
-  <h3>☕ Coffee Leaf Disease Classifier</h3>
-  <p>AI-powered application for diagnosing coffee leaf diseases using machine learning</p>
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendozabernillanilsen10&theme=radical&hide_border=true&layout=compact" width="50%" />
 </div>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<h2 align="center">🎯 Featured Projects</h2>
+
+<div align="center">
+  <!-- Adjust the repository names to match your actual projects -->
+  <a href="your-coffee-project-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendozabernillanilsen10&repo=coffee-disease-classifier&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+<h2 align="center">🌟 About Me</h2>
+
+```python
+class NilsenRay:
+    def __init__(self):
+        self.name = "Nilsen Ray Mendoza Bernilla"
+        self.role = "Full Stack Mobile Developer"
+        self.location = "Perú"
+        self.knowledge_base = [
+            "Mobile Development",
+            "Web Development",
+            "Machine Learning",
+            "UI/UX Design"
+        ]
+        self.knowledge_base.insert(0, "Coffee Leaf Disease Classification")
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together!")
+
+    def current_projects(self):
+        return {
+            "project_1": "🌿 Coffee Leaf Disease Classifier",
+            "project_2": "📱 Mobile Development Solutions",
+            "project_3": "🤖 AI Integration Projects"
+        }
+
+me = NilsenRay()
+me.say_hi()
