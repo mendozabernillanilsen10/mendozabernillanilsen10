@@ -25,7 +25,7 @@
 
 - 🔭 I'm currently working on **Coffee Leaf Disease Classification App**
 - 🌱 I'm passionate about **Mobile Development and Machine Learning**
-- 💬 Ask me about **React, Android, Flutter, and Django**
+- 💬 Ask me about ** Android, Flutter, and Django**
 - 📫 Feel free to reach me at **[Your Email]**
 
 ## 🚀 Latest Project Update
@@ -67,4 +67,10 @@
     'Cross-Platform': ['Flutter', 'React Native'],
     'UI/UX': ['Material Design', 'Custom Components'],
     'Architecture': ['MVVM', 'Clean Architecture']
+}
+const webStack = {
+    frontend: ['React', 'HTML5', 'CSS3', 'JavaScript'],
+    backend: ['Node.js', 'Django', 'Express'],
+    database: ['MongoDB', 'MySQL', 'PostgreSQL'],
+    tools: ['Git', 'Docker', 'AWS']
 }
