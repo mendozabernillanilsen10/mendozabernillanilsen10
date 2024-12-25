@@ -1,82 +1,155 @@
+// Script para generar README.md
+const fs = require('fs');
+
+const generateReadme = () => {
+  const readme = `
+<!-- Header Dinámico -->
 <div align="center">
-  <!-- Header Animation Mejorada -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nilsen%20Ray&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Mobile%20Developer%20|%20AI%20Enthusiast&descAlignY=50&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Nilsen%20Ray&desc=Full%20Stack%20Mobile%20Developer&animation=twinkling&fontSize=70&descSize=20&fontColor=ffffff&stroke=0000" />
 </div>
 
-<!-- Typing Animation Mejorada -->
+<!-- Banner Animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+code+universe;Mobile+Development+Expert;AI+%26+ML+Enthusiast;Coffee+Leaf+Disease+Classifier;Creating+innovative+solutions&font=Fira%20Code&center=true&width=480&height=50&color=f75c7e&vCenter=true&size=24&pause=1000&background=00000000">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=600&height=100&lines=Mobile+Development+Expert+%F0%9F%93%B1;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Coffee+Disease+Classifier+%F0%9F%8C%BF;Innovating+Through+Code+%F0%9F%9A%80" />
 </div>
 
-<!-- Contador de Visitas Mejorado -->
+<!-- Estadísticas en Tiempo Real -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mendozabernillanilsen10/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=mendozabernillanilsen10&style=for-the-badge&color=red" />
+  <img src="https://img.shields.io/github/followers/mendozabernillanilsen10?style=for-the-badge&color=red" />
+  <img src="https://img.shields.io/github/stars/mendozabernillanilsen10?style=for-the-badge&color=red" />
 </div>
 
-<!-- Trofeos con Animación -->
-<div align="center">
-  <img anim="jackInTheBox" src="https://github-profile-trophy.vercel.app/?username=mendozabernillanilsen10&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-</div>
-
-<!-- Tech Stack con Animaciones -->
+<!-- Tech Stack Moderno -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
-  Tech Stack
-</h2>
-
-<!-- Stats Cards Animadas -->
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mendozabernillanilsen10&theme=radical&show_icons=true&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendozabernillanilsen10&theme=radical&hide_border=true" width="49%" />
-</div>
-
-<!-- Gráfico de Actividad Mejorado -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mendozabernillanilsen10&custom_title=Nilsen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3ACE&line=7F3ACE&point=7F3ACE&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" width="100%"/>
-
-<!-- Skill Progress Bars -->
-<h2 align="center">💻 Programming Languages</h2>
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendozabernillanilsen10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%"/>
-  </a>
-</p>
-
-<!-- Weekly Stats con Animación -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  Weekly Development
-</h2>
-
-\`\`\`text
-Kotlin      ██████████████░░░░░  45.25%
-Python      ██████████░░░░░░░░░  30.28%
-Flutter     ██████░░░░░░░░░░░░░  15.12%
-JavaScript  ████░░░░░░░░░░░░░░░   9.35%
-\`\`\`
-
-<!-- Proyectos Destacados con Animación -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  Featured Projects
-</h2>
-
-<!-- Social Media con Efectos -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  Connect with me
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="35px"> 
+  Technologies & Tools
 </h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/nilsen-mendoza-bernilla-233649282" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/smith_de_cielos" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/nilsenray" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=plastic" alt="Discord" />
-  </a>
+  <!-- Frontend -->
+  <h3>Frontend & Mobile</h3>
+  ${generateTechBadges([
+    ['React Native', '20232A', 'react', '61DAFB'],
+    ['Flutter', '02569B', 'flutter', 'white'],
+    ['Kotlin', '0095D5', 'kotlin', 'white'],
+    ['Swift', 'FA7343', 'swift', 'white']
+  ])}
+  
+  <!-- Backend -->
+  <h3>Backend & Cloud</h3>
+  ${generateTechBadges([
+    ['Python', '3776AB', 'python', 'white'],
+    ['Node.js', '339933', 'nodedotjs', 'white'],
+    ['AWS', '232F3E', 'amazon-aws', 'white'],
+    ['Firebase', 'FFCA28', 'firebase', 'black']
+  ])}
+  
+  <!-- AI/ML -->
+  <h3>AI & ML</h3>
+  ${generateTechBadges([
+    ['TensorFlow', 'FF6F00', 'tensorflow', 'white'],
+    ['PyTorch', 'EE4C2C', 'pytorch', 'white']
+  ])}
 </div>
 
-<!-- Footer Wave Mejorado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=65&animation=twinkling"/>
+<!-- GitHub Stats -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> GitHub Stats </h2>
+  ${generateGitHubStats()}
+</div>
+
+<!-- Current Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+${generateFeaturedProjects()}
+
+<!-- Weekly Development -->
+<div align="center">
+  <h2>💻 Weekly Development Breakdown</h2>
+  ${generateWeeklyStats()}
+</div>
+
+<!-- Social Links -->
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  ${generateSocialLinks()}
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=150&section=footer&text=Let's%20Create%20Something%20Amazing&fontSize=40&fontColor=fff&animation=fadeIn&color=gradient" />
+</div>
+`;
+
+  return readme;
+};
+
+// Funciones auxiliares
+function generateTechBadges(technologies) {
+  return technologies.map(([name, color, logo, logoColor]) => 
+    `<img src="https://img.shields.io/badge/${name}-${color}?style=for-the-badge&logo=${logo}&logoColor=${logoColor}" />`
+  ).join('\n  ');
+}
+
+function generateGitHubStats() {
+  return `<img src="https://github-stats-alpha.vercel.app/api?username=mendozabernillanilsen10&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mendozabernillanilsen10&theme=radical&utcOffset=8" width="49%" />`;
+}
+
+function generateFeaturedProjects() {
+  const projects = [
+    {
+      name: 'coffee-disease-classifier',
+      description: 'AI-powered coffee leaf disease detection'
+    },
+    {
+      name: 'mobile-development-solutions',
+      description: 'Collection of mobile development tools'
+    }
+  ];
+
+  return projects.map(project => 
+    `<a href="https://github.com/mendozabernillanilsen10/${project.name}">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mendozabernillanilsen10&repo=${project.name}&theme=radical" />
+    </a>`
+  ).join('\n');
+}
+
+function generateWeeklyStats() {
+  const stats = {
+    'Kotlin': 45.25,
+    'Python': 30.28,
+    'Flutter': 15.12,
+    'JavaScript': 9.35
+  };
+
+  return `\`\`\`text\n${
+    Object.entries(stats)
+      .map(([lang, percent]) => 
+        `${lang.padEnd(12)} ${'█'.repeat(Math.floor(percent/5))}${'░'.repeat(20-Math.floor(percent/5))} ${percent}%`
+      )
+      .join('\n')
+  }\n\`\`\``;
+}
+
+function generateSocialLinks() {
+  const socials = [
+    ['LinkedIn', '0077B5', 'linkedin', 'nilsen-mendoza-bernilla-233649282'],
+    ['Instagram', 'E4405F', 'instagram', 'smith_de_cielos'],
+    ['Discord', '7289DA', 'discord', 'nilsenray']
+  ];
+
+  return socials.map(([name, color, platform, username]) =>
+    `<a href="https://${platform}.com/${username === 'discord' ? 'gg' : 'in'}/${username}">
+      <img src="https://img.shields.io/badge/${name}-${color}?style=for-the-badge&logo=${platform}&logoColor=white" />
+    </a>`
+  ).join('\n  ');
+}
+
+// Generar y guardar README
+const readmeContent = generateReadme();
+fs.writeFileSync('README.md', readmeContent);
+console.log('README.md generado exitosamente!');
+
+// Para ejecutar el script:
+// node generate-readme.js
