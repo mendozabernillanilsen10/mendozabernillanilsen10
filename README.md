@@ -109,14 +109,20 @@ class NilsenRay:
         self.name = "Nilsen Ray Mendoza Bernilla"
         self.role = "Full Stack Mobile Developer"
         self.location = "Perú"
-        self.knowledge = ["Mobile Development", "AI/ML", "Web Development"]
-        self.interests = ["Coffee Disease Classification", "Innovation", "Technology"]
-
+        self.knowledge = [
+            "Mobile Development",
+            "AI/ML",
+            "Web Development"
+        ]
+        self.interests = [
+            "Coffee Disease Classification",
+            "Innovation",
+            "Technology"
+        ]
+        
     def say_hi(self):
         print("Thanks for visiting my profile! Let's create something amazing together!")
 
-me = NilsenRay()
-me.say_hi()
 ```
 🌐 Connect With Me
 <div align="center">
